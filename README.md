@@ -44,8 +44,7 @@ streamlit run app.py
 * `chatbot.py` – Chatbot logic
 * `requirements.txt` – Dependencies
 * `data/` – Harry Potter dataset
-* `faiss_indexes/` – Vector indexes
-
+  
 ## Author
 
 Rama Tamimi
