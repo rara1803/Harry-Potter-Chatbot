@@ -6,10 +6,10 @@ HarryBot is a retrieval-based chatbot that answers Harry Potter questions using 
 ![image_alt](https://github.com/rara1803/Harry-Potter-Chatbot/blob/a4b066f4e1ed374f7c9bb343c28f14eba383a0d8/homepage%20hp%20bot.png)
 
 ### Example Conversation
-![image_alt]
+![image_alt](https://github.com/rara1803/Harry-Potter-Chatbot/blob/79d396a168dad865591de6d1cd9fa0cefb4a2a36/question-answer%20hp%20bot.png)
 
 ### Out-of-Scope Question
-![image_alt]
+![image_alt](https://github.com/rara1803/Harry-Potter-Chatbot/blob/79d396a168dad865591de6d1cd9fa0cefb4a2a36/rejection%20example%20hp%20bot.png)
 
 ## Features
 
