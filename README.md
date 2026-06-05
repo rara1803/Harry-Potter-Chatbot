@@ -2,6 +2,15 @@
 
 HarryBot is a retrieval-based chatbot that answers Harry Potter questions using FAISS vector search, conversational memory, similarity thresholding, and a Streamlit interface.
 
+### Home Page
+![image_alt](https://github.com/rara1803/Harry-Potter-Chatbot/blob/a4b066f4e1ed374f7c9bb343c28f14eba383a0d8/homepage%20hp%20bot.png)
+
+### Example Conversation
+![image_alt]
+
+### Out-of-Scope Question
+![image_alt]
+
 ## Features
 
 * Answers questions only when the information exists in the provided dataset
