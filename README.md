@@ -39,8 +39,8 @@ streamlit run app.py
 * `app.py` – Streamlit interface
 * `chatbot.py` – Chatbot logic
 * `requirements.txt` – Dependencies
-* `data/` – Harry Potter dataset
+* `harry_potter_data_02.xlsx/` – Harry Potter dataset
   
 ## Author
 
-Rama Tamimi
+Rama Tamimi & Joud Wardeh
